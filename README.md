@@ -48,7 +48,7 @@ The CSS file includes:
 
 ## View the Recipe Page 🌐
 
-You can view the recipe page by clicking on the following link: [https://eduardapontel.github.io/recipe-page/](https://eduardapontel.github.io/recipe-page/)
+You can view the recipe page by clicking on the following [link](https://eduardapontel.github.io/recipe-page/)
 
 <br>
 
