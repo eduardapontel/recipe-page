@@ -46,9 +46,16 @@ The CSS file includes:
 
 <br>
 
-## View the Recipe Page 🌐
+## 🚀 How to Access the Project
 
-You can view the recipe page by clicking [here](https://eduardapontel.github.io/recipe-page/).
+- Access it directly by clicking [here](https://eduardapontel.github.io/travelgram/).
+
+**Or** follow the steps below to run it locally:
+
+- Clone the repository:
+   ```git clone https://github.com/your-username/travelgram.git```
+
+- Open `index.html` in your browser.
 
 <br>
 
