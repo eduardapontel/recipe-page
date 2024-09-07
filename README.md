@@ -46,7 +46,7 @@ The CSS file includes:
 
 <br>
 
-## 🚀 How to Access the Project
+## How to Access the Project 🚀
 
 - Access it directly by clicking [here](https://eduardapontel.github.io/recipe-page/).
 
