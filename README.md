@@ -48,12 +48,12 @@ The CSS file includes:
 
 ## 🚀 How to Access the Project
 
-- Access it directly by clicking [here](https://eduardapontel.github.io/travelgram/).
+- Access it directly by clicking [here](https://eduardapontel.github.io/recipe-page/).
 
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```git clone https://github.com/your-username/travelgram.git```
+   ```git clone https://github.com/eduardapontel/recipe-page.git```
 
 - Open `index.html` in your browser.
 
