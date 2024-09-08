@@ -4,9 +4,17 @@ Welcome to the Recipe Page project! This project showcases a simple recipe for C
 
 <br>
 
-## Overview
+## Overview ✨
 
 The project consists of a single HTML file and a CSS file that together create a visually appealing recipe page. The page includes sections for recipe details, ingredients, and preparation instructions.
+
+<br>
+
+## Layout ✏️
+
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1360315130061454535).
+
+The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
 
 <br>
 
@@ -14,6 +22,10 @@ The project consists of a single HTML file and a CSS file that together create a
 
 - `index.html`: The main HTML file containing the structure of the recipe page.
 - `style.css`: The CSS file used for styling the page.
+- `assets/`: Folder containing image assets used in the project:
+  - `bg-image.jpg`: Background image for the page.
+  - `heart.svg`: Icon used in the footer.
+  - `main-image.jpg`: Main image of the cupcake displayed at the top of the page.
 
 <br>
 
