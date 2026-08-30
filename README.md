@@ -1,6 +1,6 @@
 # Recipe Page 🍰☕️
 
-Welcome to the Recipe Page project! This project showcases a simple recipe for Coffee Cupcake with Whipped Cream, styled with custom CSS. 
+Welcome to the Recipe Page project! This project showcases a simple coffee cupcake recipe with whipped cream, styled with custom CSS.
 
 <br>
 
