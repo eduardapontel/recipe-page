@@ -65,7 +65,9 @@ The CSS file includes:
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```git clone https://github.com/eduardapontel/recipe-page.git```
+   ```bash
+    git clone https://github.com/eduardapontel/recipe-page.git
+   ```
 
 - Open `index.html` in your browser.
 
