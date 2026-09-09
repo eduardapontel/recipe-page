@@ -33,14 +33,14 @@ The layout showcases the structure, color scheme, and visual design of the recip
 
 The HTML file includes the following main sections:
 
-1. **Head**: Contains metadata, links to external fonts, and CSS styles.
-2. **Body**: Contains:
-   - A header image showcasing the recipe.
-   - A main content area with:
+1. ```head```: Contains metadata, links to external fonts, and CSS styles.
+2. ```body```: Contains:
+   - A image showcasing the recipe.
+   - A ```main``` content area with:
      - `#about` section: Displays the recipe title and description.
      - `#ingredients` section: Lists all the ingredients needed for the recipe.
      - `#preparation` section: Provides step-by-step preparation instructions.
-   - A footer with attribution.
+   - A ```footer``` with attribution.
 
 <br>
 
